@@ -19,10 +19,10 @@
 .footer-links {
     font-size: 40px;
 }
+
 @media screen and (max-width: 576px){
-    .header-text{
-        text-align: center;
-        font-size:small;
+    .carousel-item > button{
+    font-size: 1vw;
     }
     
 }
